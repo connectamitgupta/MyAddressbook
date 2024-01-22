@@ -42,4 +42,5 @@
 
 ## db-[99:101]-node.example.com
 [tomcat]
-tomcatserver.my.lab
+#tomcatserver.my.lab
+172.31.4.12
