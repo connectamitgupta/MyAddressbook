@@ -45,3 +45,8 @@
 #tomcatserver.my.lab
 #172.31.4.12
 65.2.71.18
+
+## docker containers
+[dkrs]
+172.17.0.3
+172.17.0.4
